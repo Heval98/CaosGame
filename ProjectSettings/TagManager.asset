@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Player2
+  - Dis1
+  - Dis2
+  - Begin
+  - back
+  - explo
+  - expa
+  - Mensaje
+  - Slider
+  - Wall2
+  - BarreraCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1478480241
+    locked: 0
+  - name: MenuPausa
+    uniqueID: 3310289295
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particle
+    uniqueID: 3697674877
+    locked: 0
+  - name: Ball
+    uniqueID: 1403669843
+    locked: 0
+  - name: Numero
+    uniqueID: 597824641
+    locked: 0
+  - name: Disparador
+    uniqueID: 1238307979
+    locked: 0
+  - name: PausaPantalla
+    uniqueID: 1100544737
+    locked: 0
+  - name: PausaBoton
+    uniqueID: 2704766839
+    locked: 0
+  - name: Perder
+    uniqueID: 3951311623
+    locked: 0
